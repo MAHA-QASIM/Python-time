@@ -13,7 +13,7 @@ def caesar_decrypt(cipher_text, key):
             result += char
     return result
 
-# النص المشفر
+
 cipher_text = "Wklv lv d whvw phvvdjh"
 
 print(":\n")
