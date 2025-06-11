@@ -1,6 +1,7 @@
 # Python-time
 Using time in Python:
-def caesar_decrypt(cipher_text, key):
+<pre>
+`python def caesar_decrypt(cipher_text, key):
     result = ""
     for char in cipher_text:
         if char.isalpha():
